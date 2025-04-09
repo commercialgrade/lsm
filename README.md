@@ -27,6 +27,10 @@ This project supports website management including:
 - Copying of an existing website with rollback support.
 - Github update of an existing website with rollback support.
 
-# Not GitHub continuous deployment
-GitHub continuous deployment has its uses, but this approach as a few advantages:
-- Continuous deployment requires your server be publicly visible
+# LSM is designed to support servers on-premises 
+- Where GitHub Continuous Deployment would be unsuitable.
+- More secure not giving GitHub access to your server.
+- Your server can remain on-premises.
+- Your server can be hosted behind a firewall with no direct public access.
+
+  
