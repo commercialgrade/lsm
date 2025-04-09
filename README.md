@@ -1,0 +1,2 @@
+# lsm
+Laravel Server Manager
